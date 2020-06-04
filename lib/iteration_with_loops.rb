@@ -12,7 +12,7 @@ def find_even_values(src)
       end 
       row_index += 1 
 end
-
+=begin
 spice_rack = [
   ["Posh", "Scary", "Sporty"],
   ["Paprika", "Fajita Mix", "Coriander"],
@@ -28,3 +28,4 @@ while row_index < spice_rack.count do
   end
   row_index += 1
 end
+=end 
